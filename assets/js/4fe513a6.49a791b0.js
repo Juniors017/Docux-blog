@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocux_blog=self.webpackChunkdocux_blog||[]).push([[190],{9565:l=>{l.exports=JSON.parse('{"tags":[{"label":"actu","permalink":"/docux-blog/blog/tags/actu","count":5},{"label":"lancement","permalink":"/docux-blog/blog/tags/lancement","count":5}]}')}}]);
